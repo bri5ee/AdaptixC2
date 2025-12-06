@@ -1,0 +1,10 @@
+/tmp/adaptix/AdaptixC2/AdaptixClient/CMakeFiles/AdaptixClient.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/CMakeFiles/edit_cache.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/CMakeFiles/rebuild_cache.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/CMakeFiles/AdaptixClient_autogen_timestamp_deps.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/CMakeFiles/AdaptixClient_autogen.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/Libs/kddockwidgets/CMakeFiles/edit_cache.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/Libs/kddockwidgets/CMakeFiles/rebuild_cache.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/Libs/kddockwidgets/CMakeFiles/kddockwidgets_autogen_timestamp_deps.dir
+/tmp/adaptix/AdaptixC2/AdaptixClient/Libs/kddockwidgets/CMakeFiles/kddockwidgets_autogen.dir

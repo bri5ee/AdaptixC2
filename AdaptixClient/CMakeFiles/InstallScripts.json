@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/tmp/adaptix/AdaptixC2/AdaptixClient/cmake_install.cmake",
+		"/tmp/adaptix/AdaptixC2/AdaptixClient/Libs/kddockwidgets/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
