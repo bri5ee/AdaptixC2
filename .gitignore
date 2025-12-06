@@ -5,7 +5,6 @@ objects_tcp/
 .idea/
 .qt/
 *.so
-dist/
 AdaptixServer/server-dist/
 AdaptixClient/CMakeFiles/
 AdaptixClient/AdaptixClient_autogen/
